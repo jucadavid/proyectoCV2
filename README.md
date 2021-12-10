@@ -1,6 +1,6 @@
-#Proyecto de Visión Artificial
+# Proyecto de Visión Artificial
 
-##¿Cómo identificar las piezas de ajedrez en un tablero?
+## ¿Cómo identificar las piezas de ajedrez en un tablero?
 
 Ideas:
 
